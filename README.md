@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Justin 👋
 
-<!--
-**macronym/macronym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst, enthusiast of AI and cybersecurity, fan of strategy, and lifelong learner.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭I'm currently working on:
+* data tools for sports teams 🏈
+* computer vision models ✋
+* autograders for SQL 📝
+* a data and outcome prediction platform for a multiplayer browser game 🚩
+
+🌱I'm currently learning:
+* data pipelines
+* offensive and defensive cybersecurity ⚔️🛡️
+* adversarial learning 🕵️
+
+---
+
+## My Toolkit
+
+[![Languages](https://skillicons.dev/icons?i=python,cpp,mysql,matlab,r,tensorflow,pytorch,sklearn,linux,kali,windows,vscode,bash,powershell&theme=dark&center=true&perline=20)](https://skillicons.dev)
+
+
